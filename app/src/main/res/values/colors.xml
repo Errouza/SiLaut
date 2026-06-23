@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sea_blue_deep">#005C97</color>
+    <color name="sea_blue_dark">#023E8A</color>
+    <color name="sea_blue_primary">#0077B6</color>
+    <color name="sea_blue_light">#00B4D8</color>
+    <color name="sea_tropical">#363795</color>
+    <color name="sea_sky_blue">#CAF0F8</color>
+    <color name="background_gray">#F0F4F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FFB703</color>
+    <color name="status_process">#2196F3</color>
+    <color name="status_success">#4CAF50</color>
+
+    <!-- Decorative -->
+    <color name="icon_bg_blue">#1A0077B6</color>
+</resources>
