@@ -37,7 +37,7 @@ The project follows a clean architectural pattern with customized identifiers:
 ## 🔧 Installation & Setup
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/siLaut.git
+    git clone https://github.com/Errouza/SiLaut.git
     ```
 2.  **Open in Android Studio:**
     Use Android Studio Ladybug or newer.
@@ -48,10 +48,10 @@ The project follows a clean architectural pattern with customized identifiers:
 
 ## 🔑 Role-Based Access
 *   **User:** Register with any valid email.
-*   **Admin:** Register with an email ending in `@admin.silaut.com` to automatically unlock administrative privileges.
+*   **Admin:** Register with an email and get verified to get in.
 
 ## 👤 Developer
-Developed by **Erza** (Custom Identifier: **_018**)
+Developed by **Dhia** (Custom Identifier: **_018**)
 
 ---
 *Developed with ❤️ for the Maritime Community.*
